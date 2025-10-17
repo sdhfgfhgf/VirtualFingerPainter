@@ -1,0 +1,51 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+*.py.class
+
+# ---- Virtual Environments ----
+venv/
+.env/
+env/
+.venv/
+ENV/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---- OS Generated Files ----
+.DS_Store
+Thumbs.db
+
+# ---- Jupyter / Logs / Cache ----
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.bak
+*.swp
+*.cache/
+
+# ---- Media Files ----
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+
+# ---- Compiled / Build ----
+build/
+dist/
+*.egg-info/
+
+# ---- Misc ----
+# Ignore test output or temporary data
+output/
+data/
