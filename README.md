@@ -10,8 +10,8 @@ Use gestures to **draw**, **clear the canvas**, or **reset your stroke** — all
 ## 📸 Demo
 
 ```
-![Alt text](Assets/cffa285d6342894aa82c3b5a8791d919.jpeg)
-![demo](Assets/cffa285d6342894aa82c3b5a8791d919.jpeg)
+![Alt text](Asset/cffa285d6342894aa82c3b5a8791d919.jpeg)
+![demo](Asset/cffa285d6342894aa82c3b5a8791d919.jpeg)
 ```
 
 ---
