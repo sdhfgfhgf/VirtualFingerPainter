@@ -10,7 +10,7 @@ Use gestures to **draw**, **clear the canvas**, or **reset your stroke** — all
 ## 📸 Demo
 
 ```
-![demo](assets/demo.gif)
+![demo](assets/cffa285d6342894aa82c3b5a8791d919.jpeg)
 ```
 
 ---
