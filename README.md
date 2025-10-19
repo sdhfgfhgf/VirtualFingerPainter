@@ -97,7 +97,7 @@ hand-drawing-mediapipe/
 ├── requirements.txt       # dependencies
 ├── .gitignore             # ignored files
 ├── README.md              # project description
-└── assets/                # store demo images or gifs
+└── Asset/                # store demo images
 ```
 
 ---
