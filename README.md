@@ -9,9 +9,9 @@ Use gestures to **draw**, **clear the canvas**, or **reset your stroke** — all
 
 ## 📸 Demo
 
-```
+
 <img src="Asset/cffa285d6342894aa82c3b5a8791d919.jpeg" alt="demo" width="50%" />
-```
+
 
 ---
 
